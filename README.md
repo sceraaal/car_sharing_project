@@ -19,4 +19,3 @@ Obiettivi:
 - Documentare e testare accuratamente il codice.
 
 Il nostro team è formato da Simona, Manuel e Nicola.
-Forza Napoli Sempre.
